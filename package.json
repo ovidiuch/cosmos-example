@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "component-playground"
+  },
   "dependencies": {
     "react": "^0.13.1"
   },
