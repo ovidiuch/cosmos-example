@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "./node_modules/.bin/component-playground"
+    "start": "component-playground"
   },
   "dependencies": {
     "react": "^0.13.1"
