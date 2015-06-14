@@ -3,6 +3,8 @@
     "start": "component-playground"
   },
   "dependencies": {
+    "flux": "^2.0.3",
+    "lodash": "^3.9.3",
     "react": "^0.13.1"
   },
   "devDependencies": {
